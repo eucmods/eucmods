@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=200&fontAlignY=40"/>
   <h1>Welcome! <img src="https://raw.githubusercontent.com/mov-ebx/mov-ebx/master/assets/wave.gif" height=30></h1>
   <div id="badges">
-    <a href="https://gists.github.com/mov-ebx](https://github.com/MVPSt">
+    <a href="https://github.com/MVPSt">
       <img src="https://img.shields.io/badge/Gists-blue?logo=github">
     </a>
 
