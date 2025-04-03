@@ -5,9 +5,7 @@
     <a href="https://gists.github.com/mov-ebx](https://github.com/MVPSt">
       <img src="https://img.shields.io/badge/Gists-blue?logo=github">
     </a>
-    <a href="https://github.com/mov-ebx](https://gists.github.com/mov-ebx](https://github.com/MVPSt">
-      <img src="https://gpvc.arturio.dev/mov-ebx">
-    </a>
+
   </div>
 </div>
 
